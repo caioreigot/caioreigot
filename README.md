@@ -1,6 +1,8 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Caio Costa</h1>
+<img align="left" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-🔥 Full Stack Developer and Programmer as a Hobby
+<h1 align="left">&nbsp;&nbsp;Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Caio Costa</h1>
+
+&nbsp;&nbsp;&nbsp;&nbsp; 🔥 Full Stack Developer and Programmer as a Hobby
 
 <br>
 
