@@ -2,7 +2,7 @@
 
 <h1 align="left">&nbsp;&nbsp;Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Caio Costa</h1>
 
-&nbsp;&nbsp;&nbsp;&nbsp; 🔥 Full Stack Developer & Programmer as a hobby
+&nbsp;&nbsp;&nbsp;&nbsp; 🔥 Full Stack Web Developer & Programmer as a hobby
 
 <br>
 
