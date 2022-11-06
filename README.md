@@ -9,8 +9,8 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat-square&logo=typescript)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat-square&logo=next.js)&nbsp;
 ![Vite](https://img.shields.io/badge/-Vite-05122A?style=flat-square&logo=vite)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
