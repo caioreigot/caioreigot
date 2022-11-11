@@ -27,7 +27,7 @@
 
 <br>
 
-## Contact
+## 📬 &nbsp;Contact
 
 <p align="left" style="background:yellow">
   <img align="center" src="https://img.shields.io/badge/-caiocrrodrigues2004@gmail.com-05122A?style=flat-square&logo=gmail" alt="gmail"/>
