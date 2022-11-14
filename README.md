@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<span align="left" style="font-size:24px;"> 
-  <h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Caio Costa</h1>
-</span>
+<h1>Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Caio Costa</h1>
 🔥 Full stack web developer & programmer as a hobby <br>
 <br>
 🧑‍💻 Visit my <a href="https://caio-costa.vercel.app/">website</a> (pt-BR)
