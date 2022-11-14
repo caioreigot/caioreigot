@@ -11,7 +11,7 @@
 <br>
 <br>
 <p align="left">
-  <a href="linkedin.com/in/caioreigot" alt="Linkedin">
+  <a href="https://linkedin.com/in/caioreigot" alt="Linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:caioreigot@gmail.com?subject=Oi, Caio!" alt="Gmail">
